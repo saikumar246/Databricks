@@ -9,6 +9,7 @@
 
 #MAGIC %md
 #MAGIC This is a github testing. added this line in github.
+#MAGIC
 
 # COMMAND ----------
 
