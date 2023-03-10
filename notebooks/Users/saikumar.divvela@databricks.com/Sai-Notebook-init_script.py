@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ##Init Scripts
+# MAGIC ##Init Scripts and Github integration
 # MAGIC 
 # MAGIC There 2 types of init scripts 1. ***Global Init Scripts***  2. ***Cluster-scoped init scripts***
 # MAGIC 
