@@ -7,6 +7,9 @@
 # MAGIC Init Script event logs are available in cluster event logs.
 # MAGIC If ***Cluster log delivery*** is configured for a cluster, log files will find in the below dbfs path
 
+#MAGIC %md
+#MAGIC This is a github testing. added this line in github.
+
 # COMMAND ----------
 
 # MAGIC %fs ls dbfs:/cluster-logs/0306-112233-vs5567nq/init_scripts/0306-112233-vs5567nq_69_208_0_142/
